@@ -1,0 +1,3 @@
+include ':performance_testing'
+include ':app'
+rootProject.name = "QTPerformanceTesting"
